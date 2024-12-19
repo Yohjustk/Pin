@@ -1,6 +1,6 @@
-# PinImageGetter
-Program for Get images address from Your own boards in Pinterest
+# Pin
 
+PinterestAPIを用いて、自分のボードに対してユーザが自分の作品画像ピンを作成する、また同様の画像がボード上にあった場合は警告を行うシステムです
 
 ---
 
@@ -11,7 +11,7 @@ Program for Get images address from Your own boards in Pinterest
 
 ### 1. 収集する情報
 当サービスは、以下の情報を収集する場合があります。  
-- Pinterest APIを通じて取得する画像やボード情報（ユーザーが明示的に許可した範囲内）。  
+- Pinterest APIを通じて取得する画像リンクやボード情報（ユーザーが明示的に許可した範囲内）。  
 - ユーザー名やボード名など、Pinterestアカウントに関連付けられた情報。  
 
 ### 2. 情報の利用方法
